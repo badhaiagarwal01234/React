@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+   
+}
+.card{
+    margin-bottom: 20px;
+}
+.form-control{
+    margin: 20px;
+}
